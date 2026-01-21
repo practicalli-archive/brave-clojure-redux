@@ -1,4 +1,4 @@
-# getting-started
+# ARCHIVED: getting-started
 
 FIXME: my new application.
 
